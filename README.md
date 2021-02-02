@@ -1,3 +1,4 @@
+[![Board Status](https://fisko.visualstudio.com/89dbd02f-9235-41db-948a-ba143c9ed159/86bc0833-c3d1-4bc9-acd9-b58a0ace5b23/_apis/work/boardbadge/73190900-4094-4ce5-91ea-802d65af90ed)](https://fisko.visualstudio.com/89dbd02f-9235-41db-948a-ba143c9ed159/_boards/board/t/86bc0833-c3d1-4bc9-acd9-b58a0ace5b23/Microsoft.RequirementCategory)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
